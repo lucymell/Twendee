@@ -1,7 +1,7 @@
 import React, { useContext, useEffect } from "react";
 import { useForm } from "react-hook-form";
 import { Context } from "../store/appContext";
-import logo from "../../img/logo.webp ";
+import logo from "../../img/logo.png ";
 import loginImage from "../../img/background-login.jpg";
 import { Link } from "react-router-dom";
 
