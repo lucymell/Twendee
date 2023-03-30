@@ -39,7 +39,7 @@ export const Blog = () => {
                 text={post.text}
                 userID={post.traveler_id}
                 username={
-                  localStorage.getItem("token") ? post.traveler_name : "Mark"
+                  localStorage.getItem("token") ? post.traveler_name : "Linda"
                 }
                 userpicture={
                   localStorage.getItem("token")
