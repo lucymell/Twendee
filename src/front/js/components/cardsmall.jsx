@@ -17,7 +17,7 @@ const CardSmall = (props) => {
             className="button--small"
             size="sm"
             color="primary"
-            text="Leer"
+            text="See more"
           />
         </Link>
       </Card.Body>
