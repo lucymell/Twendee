@@ -107,7 +107,7 @@ export const Landing = () => {
       <div className="home-background">
         <div className="home-body container">
           <h1 className="title-home my-0 py-3 landing-color fw-bold">
-          What is sky tours?
+          TWENDE
           </h1>
           <div className="mx-2 resume-container">
             <p className="">
