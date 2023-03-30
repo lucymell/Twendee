@@ -50,7 +50,7 @@ export const TripCardLanding = (props) => {
               } className="user-picture" />
               <p className="user-name">{
               localStorage.getItem("token")
-              ? props.username: "Mark"}</p>
+              ? props.username: "Wendy"}</p>
             </div>
           </div>
           <div className="col-12 col-md-6">
