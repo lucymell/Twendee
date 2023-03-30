@@ -1,7 +1,7 @@
 {
-	"name": "react-hello-webapp",
+	"name": "twendee",
 	"engines": {
-		"node": "14.x",
+		"node": "18.x",
 		"npm": "6.x"
 	},
 	"version": "1.0.1",
@@ -12,14 +12,10 @@
 		"build": "webpack --config webpack.prod.js",
 		"lint": "eslint ./src --ext .js,.jsx"
 	},
-	"contributors": [
+	"contributor": [
 		{
-			"name": "Iván Jaén Trujillo",
-			"url": "https://github.com/kholostyak17"
-		},
-		{
-			"name": "Sergio Carrascal Sánchez",
-			"url": "https://github.com/scsanchez"
+			"name": "Lucy Mutuota",
+			"url": "https://github.com/lucymell"
 		}
 	],
 	"license": "ISC",

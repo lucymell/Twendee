@@ -4,8 +4,8 @@ import Grid from "@material-ui/core/Grid";
 import { createMuiTheme, MuiThemeProvider } from "@material-ui/core/styles";
 import { Context } from "../store/appContext";
 import Button from "../components/button";
-import logo from "../../img/logo.png";
-import logoSkytours from "../../img/logo-braulg.png";
+import logo from "../../img/logo.webp";
+import logoTwendee from "../../img/logo-braulg.png";
 import { TripCardLanding } from "../components/trip-card-landing";
 import CardSmall from "../components/cardsmall";
 

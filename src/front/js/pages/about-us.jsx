@@ -1,5 +1,5 @@
 import React from "react";
-import logo from "../../img/logo.png";
+import logo from "../../img/logo.webp";
 
 export const AboutUs = () => (
   <div className="about-us-container d-flex justify-content-center flex-wrap">

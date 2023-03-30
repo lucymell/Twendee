@@ -3,7 +3,7 @@ import { Link, useLocation } from "react-router-dom";
 import Navbar from "react-bootstrap/Navbar";
 import Nav from "react-bootstrap/Nav";
 import Dropdown from "react-bootstrap/Dropdown";
-import logo from "../../img/logo.png";
+import logo from "../../img/logo.webp";
 
 export const MyNavbar = () => {
   const location = useLocation();
