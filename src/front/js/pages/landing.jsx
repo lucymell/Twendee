@@ -88,7 +88,7 @@ export const Landing = () => {
         </div>
         {!localStorage.getItem("token") ? (
           <div className="links-box">
-            <h3 className="secondary-color">Find travel companions!</h3>
+            <h3 className="secondary-color">Find travel buddies!</h3>
             <Link to="/register">
               <button className="button lm primary m-2" id="register-btn">
               REGISTER
@@ -119,7 +119,7 @@ export const Landing = () => {
             <p>
               In addition, our application has a testimonials where users
               can share their experiences so that other users
-              can take inspiration for your future plans :).
+              can get inspiration.
             </p>
           </div>
 
@@ -131,7 +131,7 @@ export const Landing = () => {
           </div>
           <div className="mini-cards">
             <h2 className="title-home landing-color my-4">
-            User stories
+            Testimonials
             </h2>
             <MuiThemeProvider theme={theme}>
               <Grid container className="card-sm-container">
