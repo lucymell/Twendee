@@ -24,7 +24,7 @@ export const TripCard = (props) => {
                 />
               </div>
               <p className="">{localStorage.getItem("token")
-                  ? partner.name : "Mark"}</p>
+                  ? partner.name : "Sally"}</p>
             </Link>
           </div>
         );
@@ -59,7 +59,7 @@ export const TripCard = (props) => {
                 }
                 className="user-picture" />
                 <p className="user-name">{localStorage.getItem("token")
-                  ? props.username: "Mark"}</p>
+                  ? props.username: "Sally"}</p>
               </div>
             </Link>
           </div>
